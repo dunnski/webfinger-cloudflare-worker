@@ -22,8 +22,7 @@
 // TODO: deployment via wrangler bits
 
 const redirectMap = new Map([
-  ['kurt@seifried.org', '@kurtseifried@mastodon.social'],
-  ['test@seifried.org', '@test@tld'],
+  ['josh@dunnski.me'],
 ]);
 
 async function handleRequest(request) {
